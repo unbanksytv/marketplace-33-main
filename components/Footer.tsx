@@ -9,7 +9,7 @@ const Footer = () => {
     return (
       <footer className='col-span-full flex flex-col sm:flex-row justify-between items-center px-6 md:px-16 pb-12'>
         <div className='flex flex-row justify-between items-center gap-x-6 sm:gap-x-8 mb-6 sm:mb-0 text-xs sm:text-sm flex-wrap'>
-          <Link href='https://reservoir.tools/'>
+          <Link href='https://livethelife.tv/'>
             <a className='' target="_blank" rel="noreferrer">
               About
             </a>
@@ -26,12 +26,12 @@ const Footer = () => {
           </Link>
         </div>
         <div className='flex flex-row items-center gap-x-6'>
-          <Link href='https://twitter.com/reservoir0x'>
+          <Link href='https://twitter.com/livethelifetv'>
             <a className='' target="_blank" rel="noreferrer">
               <FaTwitter className='h-[20px] w-[25px]' />
             </a>
           </Link>
-          <Link href='https://discord.gg/j5K9fESNwh' className='ml-5'>
+          <Link href='https://discord.gg/' className='ml-5'>
             <a className='' target="_blank" rel="noreferrer">
               <FaDiscord className='h-[19px] w-[25px]' />
             </a>

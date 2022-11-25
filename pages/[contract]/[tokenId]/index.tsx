@@ -63,7 +63,7 @@ const metadata = {
     </>
   ),
   tagline: (tagline: string | undefined) => (
-    <>{tagline || 'Discover, buy and sell NFTs'}</>
+    <>{tagline || 'Living The Good Life'}</>
   ),
 }
 
